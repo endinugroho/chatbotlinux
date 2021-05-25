@@ -1,0 +1,1 @@
+[21-Dec-2019 12:42:33 UTC] PHP Fatal error:  Cannot redeclare informasimodel::edit() in /home/csblogis/public_html/app/application/models/Informasimodel.php on line 39
